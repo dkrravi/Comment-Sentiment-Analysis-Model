@@ -1,3 +1,3 @@
-![Output](positive.png)
-![Output](negative.png)
-![Output](neutral.png)
+![Output](Positive.png)
+![Output](Negative.png)
+![Output](Neutral.png)
